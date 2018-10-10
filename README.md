@@ -49,3 +49,18 @@ vielleicht noch ein .ics anbieten um die veranstaltung in den kalender zu übern
 * "Programmpunkten wie Schweizer Spieleentwickler".  Schweizer spielentwickler sind eher gäste als programmpunkte. eine podiumsdiskussion mit schweizer spielenentwicklern wäre ein programmpunkt. 
 * "der beliebte Spielpass" unklar, was das für ein Programmpunkt ist
 würde allgemein noch mehr betonen, dass es leute gibt, die spiele erklären. ggf. schon auf der startseite
+
+**text helfer:**
+* "Hallo Freunde des gepflegten oder auch ungehemmten Spielens" Satzzeichen fehlt am Ende
+* "Wir versuchen natürlich auf deine Wünsche einzugehen, sind aber natürlich froh wenn du flexibel bist." zu natürlich! ein "natürlich" reicht
+* "Wir versuchen natürlich die Helfereinsätze" Im nächsten Satz geht es direkt weiter mit "natürlich". und auch nochmal "versuchen"
+* "nicht nur unser dank. du wirst zum helferessen eingeladen." vielleicht noch ein "auch" nach "wirst"
+* "Folgende Jobs stehen zur Verfügung:" sollte nach der überschrift "jobbeschriebe" stehen
+* "Du betreust den Flohmarkt, fügst neue Spiele in die Liste hinzu." Was für eine Liste?
+* "Kassierst entsprechend ein." Sollte auch mit "Du" anfangen
+* "präsent und beratest" berätst
+* "welches Spiel sie denn so spielen sollen." freundlicher "welche Spiele sie ausprobieren könnten"
+* "grosse & komplexe" & ist kaufmännisch, lieber "und"
+* "Du sprichst Leute an, zettelst neue Spielrunden an" Zweimal "an".  "Du sprichst Leute an, startest neue Spielrunden"
+* "Du hilft am Freitagabend " Du hilfst
+* "Speaker" anglizismen vermeiden: "sprecher, ansager, moderator, ..."
