@@ -37,8 +37,8 @@ noch ein paar kleinere dinge, wahrscheinlich geschmacksabhängig:
 
 **Startseite:**
 
-die karte ist momentan ein bruch auf der seite - man denkt, danach kommt nichts mehr. deswegen wohl auch der Anchor "nichts verpassen". der aber nur die seite runterscrollt. kann man die Karte kleiner machen, z.b. auch in so eine eine Box?
-vielleicht noch ein .ics anbieten um die veranstaltung in den kalender zu übernehmen?
+* ~~die karte ist momentan ein bruch auf der seite - man denkt, danach kommt nichts mehr. deswegen wohl auch der Anchor "nichts verpassen". der aber nur die seite runterscrollt. kann man die Karte kleiner machen, z.b. auch in so eine eine Box?~~
+* vielleicht noch ein .ics anbieten um die Veranstaltung in den Kalender zu übernehmen?
 
 **text programm:**
 
