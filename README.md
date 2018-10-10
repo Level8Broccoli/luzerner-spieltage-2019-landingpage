@@ -38,7 +38,6 @@ noch ein paar kleinere dinge, wahrscheinlich geschmacksabhängig:
 **Startseite:**
 
 * ~~die karte ist momentan ein bruch auf der seite - man denkt, danach kommt nichts mehr. deswegen wohl auch der Anchor "nichts verpassen". der aber nur die seite runterscrollt. kann man die Karte kleiner machen, z.b. auch in so eine eine Box?~~
-* vielleicht noch ein .ics anbieten um die Veranstaltung in den Kalender zu übernehmen?
 
 **text programm:**
 
@@ -66,3 +65,4 @@ würde allgemein noch mehr betonen, dass es leute gibt, die spiele erklären. gg
 * Google Maps karte geht über die gesamte breite - beachtet die ränder nicht
 * manche navigationselemente haben einen kasten um sich rum. der kasten ist aber leer und füllt sich, wenn man mit der Maus drüber geht (sprachwahl, mehr infos auf programmseite). andere Links haben einen ausgemalten kasten (kontaktformular anschreiben, nicht verpassen, anmeldung newsletter etc
 * der schwarze balken oben ist sehr dick. muss aber wohl wegen des logos. falls man das nicht verkleinern kann/will: macht es Sinn, den noch ein wenig mehr zu befüllen oder zumindest spannender zu gestalten?
+* vielleicht noch ein .ics anbieten um die Veranstaltung in den Kalender zu übernehmen?
