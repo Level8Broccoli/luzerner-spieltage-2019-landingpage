@@ -33,3 +33,8 @@ noch ein paar kleinere dinge, wahrscheinlich geschmacksabhängig:
 * der schwarze balken oben ist sehr dick. muss aber wohl wegen des logos. falls man das nicht verkleinern kann/will: macht es sinn, den noch ein wenig mehr zu befüllen oder zumindestspannender zu gestalten?
 * ein Favicon wäre noch schön
 * bild 10 auf programm-unterseite ist fast identisch mit bild 15
+
+**Texte startseite:**
+* Discord => "direkt mit dem OK". unklar, was das OK ist, besser ausschreiben
+* Facebook => "unser anlass ist". schwaches verb. besser "unseren anlass findest du auch"
+* Meetup => "ähnlich wie unseren newsletter" das passt grammatikalisch nicht ganz, aber weiss nicht genau, was ausgedrückt werden soll. werden über Meetup auch Nachrichten an die Teilnehmer verschickt?
