@@ -2,9 +2,14 @@
 
 ## Fehler
 
-### Deutsch
+### Index
+https://spieltage.ch/de/index/
 
-#### Helfer
-(https://spieltage.ch/de/helfer/)
+**Deutsch & Englisch**
+* Headline: no-wrap rausnehmen
 
+### Helfer
+https://spieltage.ch/de/helfer/
+
+**Deutsch**
 * Tische, Küche, Getränke ect. -> etc. // Thomas
