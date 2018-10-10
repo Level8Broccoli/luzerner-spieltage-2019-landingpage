@@ -38,3 +38,7 @@ noch ein paar kleinere dinge, wahrscheinlich geschmacksabhängig:
 * Discord => "direkt mit dem OK". unklar, was das OK ist, besser ausschreiben
 * Facebook => "unser anlass ist". schwaches verb. besser "unseren anlass findest du auch"
 * Meetup => "ähnlich wie unseren newsletter" das passt grammatikalisch nicht ganz, aber weiss nicht genau, was ausgedrückt werden soll. werden über Meetup auch Nachrichten an die Teilnehmer verschickt?
+
+**Startseite:**
+die karte ist momentan ein bruch auf der seite - man denkt, danach kommt nichts mehr. deswegen wohl auch der Anchor "nichts verpassen". der aber nur die seite runterscrollt. kann man die Karte kleiner machen, z.b. auch in so eine eine Box?
+vielleicht noch ein .ics anbieten um die veranstaltung in den kalender zu übernehmen?
