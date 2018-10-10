@@ -32,4 +32,4 @@ noch ein paar kleinere dinge, wahrscheinlich geschmacksabhängig:
 * manche navigationselemente haben einen kasten um sich rum. der kasten ist aber leer und füllt sich, wenn man mit der Maus drüber geht (sprachwahl, mehr infos auf programmseite). andere Links haben einen ausgemalten kasten (kontaktformular anschreiben, nicht verpassen, anmeldung newsletter etc
 * der schwarze balken oben ist sehr dick. muss aber wohl wegen des logos. falls man das nicht verkleinern kann/will: macht es sinn, den noch ein wenig mehr zu befüllen oder zumindestspannender zu gestalten?
 * ein Favicon wäre noch schön
-bild 10 auf programm-unterseite ist fast identisch mit bild 15
+* bild 10 auf programm-unterseite ist fast identisch mit bild 15
