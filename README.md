@@ -40,5 +40,12 @@ noch ein paar kleinere dinge, wahrscheinlich geschmacksabhängig:
 * Meetup => "ähnlich wie unseren newsletter" das passt grammatikalisch nicht ganz, aber weiss nicht genau, was ausgedrückt werden soll. werden über Meetup auch Nachrichten an die Teilnehmer verschickt?
 
 **Startseite:**
+
 die karte ist momentan ein bruch auf der seite - man denkt, danach kommt nichts mehr. deswegen wohl auch der Anchor "nichts verpassen". der aber nur die seite runterscrollt. kann man die Karte kleiner machen, z.b. auch in so eine eine Box?
 vielleicht noch ein .ics anbieten um die veranstaltung in den kalender zu übernehmen?
+
+**text programm:**
+
+* "Programmpunkten wie Schweizer Spieleentwickler".  Schweizer spielentwickler sind eher gäste als programmpunkte. eine podiumsdiskussion mit schweizer spielenentwicklern wäre ein programmpunkt. 
+* "der beliebte Spielpass" unklar, was das für ein Programmpunkt ist
+würde allgemein noch mehr betonen, dass es leute gibt, die spiele erklären. ggf. schon auf der startseite
