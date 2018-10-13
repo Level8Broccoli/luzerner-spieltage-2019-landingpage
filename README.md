@@ -27,7 +27,7 @@ https://spieltage.ch/de/helfer/
 
 noch ein paar kleinere dinge, wahrscheinlich geschmacksabhängig:
 * Aufruf für Helfer würde ich noch in den haupt text pappen (unter "mehr fotos auf der Programm unterseite). oben in der Navigation wird es nicht offensichtlich beworben
-* ein Favicon wäre noch schön
+* ~~ein Favicon wäre noch schön~~
 * ~~bild 10 auf programm-unterseite ist fast identisch mit bild 15~~
 
 **Texte startseite:**
