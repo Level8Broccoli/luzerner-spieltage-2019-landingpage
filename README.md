@@ -66,3 +66,50 @@ würde allgemein noch mehr betonen, dass es leute gibt, die spiele erklären. gg
 * manche navigationselemente haben einen kasten um sich rum. der kasten ist aber leer und füllt sich, wenn man mit der Maus drüber geht (sprachwahl, mehr infos auf programmseite). andere Links haben einen ausgemalten kasten (kontaktformular anschreiben, nicht verpassen, anmeldung newsletter etc
 * der schwarze balken oben ist sehr dick. muss aber wohl wegen des logos. falls man das nicht verkleinern kann/will: macht es Sinn, den noch ein wenig mehr zu befüllen oder zumindest spannender zu gestalten?
 * vielleicht noch ein .ics anbieten um die Veranstaltung in den Kalender zu übernehmen?
+
+#### Sina
+
+# Design
+
+* Aktiver Menüpunkt farblich hervorheben
+* Links intuitiver designer
+* Slider zu schnell/nervös
+* Logo/Datum: Klarer Kommunizieren, dass es sich um einen wiederkehrenden Anlass handelt. Vielleicht das Datum vom Logo loslösen?
+
+# Inhalt
+
+## Sponsoren
+
+* Sponsoren-Seite aufschalten
+** Bisherige Sponsoren
+** Möglichkeit für Gönner (Bankverbindung)
+** Sponsorenlevel + Formular > Jan fragen
+** Partner? (Spielschweiz, Gilde, Mannsgöggeli, GamePlace, Freakatorium etc.)
+
+## Startseite
+
+* "Wochenende vom 9./10. Februar 2019" fett machen
+* Button/Link/CalltoAction: "zum attraktiven Programm"
+* Unterhalb des Sliders: "Mehr Fotos" (Link)
+* Slider à la Map auf eine separaten Zeile
+* Map auf separate "Anfahrts-Seite" (+ Busverbindungen, Infos zu Parkplätzen etc.) oder unterhalb von Kontaktformular (Kontakt-Seite)
+* Eintritt & Verpflegung (Was gabe es die letzten Jahre) zusammennehmen (Verpflegung: warmes Essen erwähnen)
+* Nicht verpassen Elemente evtl. auch auf separate Seite? (Vielleicht auch auf die Kontaktseite?)
+* Hauptraster überarbeiten. Mögliche neue Inhalte: Programm, Helfer. Ist es möglich bei allen einen Link ("Mehr Infos" o.ä.) zu platzieren?
+
+
+## Programm
+
+* Früheres Programm vorstellen
+* Altes Programmheft
+
+## Helfer
+
+* Beim Einstieg ein Link/Button/Aufruf auf das Formular.
+* Ausprobieren die Jobs in einem Raster (à la Startseite) darstellen
+* Erster Satz weglassen, weniger wie Mail
+
+## Kontakt
+
+* Einleitungstext
+* Foto?
