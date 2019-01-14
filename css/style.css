@@ -208,39 +208,39 @@ footer {
 }
 
 .grid>:nth-child(4n) {
-	border-color: #58A5DA;
-}
-
-.grid>:nth-child(4n) .button {
-	background-color: #58A5DA;
-}
-
-.grid>:nth-child(4n):hover .button {
-	color: #58A5DA;
-}
-
-.grid>:nth-child(4n+1) {
 	border-color: #CC3E8E;
 }
 
-.grid>:nth-child(4n+1) .button {
+.grid>:nth-child(4n) .button {
 	background-color: #CC3E8E;
 }
 
-.grid>:nth-child(4n+1):hover .button {
+.grid>:nth-child(4n):hover .button {
 	color: #CC3E8E;
 }
 
-.grid>:nth-child(4n+2) {
+.grid>:nth-child(4n+1) {
 	border-color: #C6474C;
 }
 
-.grid>:nth-child(4n+2) .button {
+.grid>:nth-child(4n+1) .button {
 	background-color: #C6474C;
 }
 
-.grid>:nth-child(4n+2):hover .button {
+.grid>:nth-child(4n+1):hover .button {
 	color: #C6474C;
+}
+
+.grid>:nth-child(4n+2) {
+	border-color: #58A5DA;
+}
+
+.grid>:nth-child(4n+2) .button {
+	background-color: #58A5DA;
+}
+
+.grid>:nth-child(4n+2):hover .button {
+	color: #58A5DA;
 }
 
 .grid>:nth-child(4n+3) {
@@ -281,15 +281,15 @@ aside a:hover {
 }
 
 aside ul>:nth-child(4n):hover {
-	background-color: #58A5DA;
-}
-
-aside ul>:nth-child(4n+1):hover {
 	background-color: #CC3E8E;
 }
 
-aside ul>:nth-child(4n+2):hover {
+aside ul>:nth-child(4n+1):hover {
 	background-color: #C6474C;
+}
+
+aside ul>:nth-child(4n+2):hover {
+	background-color: #58A5DA;
 }
 
 aside ul>:nth-child(4n+3):hover {
@@ -336,4 +336,15 @@ address {
 
 label {
 	font-weight: 600;
+}
+
+
+/* Images */
+
+.grid-image {
+	width: calc(100% + 20px);
+	height: 75px;
+	object-fit: cover;
+	margin: -10px;
+	margin-bottom: 10px;
 }
